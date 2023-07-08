@@ -12,7 +12,7 @@
 |2| :white_large_square: | |  | |
 |2| :white_large_square: | |  | |
 |2| :white_large_square: | |  | |
-|2| :black_large_square: | |  | |
+|2| :white_large_square: | |  | |
 |2| :white_large_square: | |  | |
 
 ---
